@@ -21,8 +21,10 @@ dist/
 .idea/
 .vscode/
 
-# misc
+# macOS system files
 .DS_Store
+
+# misc
 .env.local
 .env.development.local
 .env.test.local
